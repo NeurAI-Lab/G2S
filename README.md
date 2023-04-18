@@ -36,7 +36,7 @@ If you find the code useful in your research, please consider citing our paper:
 	title={Multimodal Scale Consistency and Awareness for Monocular Self-Supervised
 	Depth Estimation},
 	location={Xi’an, China},
-	publisher={IEEE (in press)},
+	publisher={IEEE},
 	year={2021}
 }
 </pre>
